@@ -19,3 +19,7 @@
 - Ver divulgadores cientificos ‍🔬
 - Voley 🏐
 - Lemon Pie 🥧
+- Musica 🎵
+  - Jazz 🎷
+  - Rock Indie 🎸
+  - J-Rock 🎌
